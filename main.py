@@ -26,7 +26,6 @@ sleepTime = int(0)
 #number of records you want to fetch
 numOfRecords = int(1600)
 
-#Url to fetch all the data scientist jobs in India. Note : use .com and not .in
 url = 'https://www.glassdoor.com/Job/india-data-scientist-jobs-SRCH_IL.0,5_IN115_KO6,20.htm?minSalary=52000&maxSalary=1008000&includeNoSalaryJobs=false'
 
 logger.info('Fetching data')
