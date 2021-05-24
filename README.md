@@ -16,6 +16,6 @@ Functionality :
  log_config.ini :: logger property file
  main.py :: main file
  
- gs_data.csv :: Data scraped from the site is placed in this folder. Cleaning of data shall be required once you fetch the data. Refer to my other repo for cleaning of data
+ gs_data.csv :: Data scraped from the site is placed in this file. Cleaning of data shall be required once you fetch the data. Refer to my other repo for cleaning of data
   
 P.S. : All the files should be present in the same folder
